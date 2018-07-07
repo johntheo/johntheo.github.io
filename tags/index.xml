@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on johntheology</title>
+    <link>https://johntheo.github.io/tags/</link>
+    <description>Recent content in Tags on johntheology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 06 Jun 2017 17:15:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://johntheo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anaconda</title>
+      <link>https://johntheo.github.io/tags/anaconda/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/anaconda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://johntheo.github.io/tags/c/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deap</title>
+      <link>https://johntheo.github.io/tags/deap/</link>
+      <pubDate>Fri, 02 Jun 2017 20:00:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/deap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dsp</title>
+      <link>https://johntheo.github.io/tags/dsp/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/dsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Computing</title>
+      <link>https://johntheo.github.io/tags/evolutionary-computing/</link>
+      <pubDate>Fri, 02 Jun 2017 20:00:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/evolutionary-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Algorithm</title>
+      <link>https://johntheo.github.io/tags/genetic-algorithm/</link>
+      <pubDate>Fri, 02 Jun 2017 20:00:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Librosa</title>
+      <link>https://johntheo.github.io/tags/librosa/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/librosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://johntheo.github.io/tags/python/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resampy</title>
+      <link>https://johntheo.github.io/tags/resampy/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/tags/resampy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

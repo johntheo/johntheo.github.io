@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on johntheology</title>
+    <link>https://johntheo.github.io/post/</link>
+    <description>Recent content in Posts on johntheology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 06 Jun 2017 17:15:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://johntheo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anaconda, Librosa, Windows 10</title>
+      <link>https://johntheo.github.io/2017/06/anaconda-librosa-windows-10/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/2017/06/anaconda-librosa-windows-10/</guid>
+      <description>Instalar alguns plugins que utilizam bibliotecas em C, nem sempre é simples com python. Se o ambiente não estiver redondo pode dar alguns problemas chatinhos de compilação.
+Abaixo eu montei um passo-a-passo de como deixar o ambiente OK para instalar qualquer pacote que utilize bibliotecas em C. No meu teste estou utilizando a librosa(biblioteca para processamento de audio), mas pode ser aplicado a qualquer biblioteca como é o caso do theano(biblioteca de deep learning)</description>
+    </item>
+    
+    <item>
+      <title>Tutorial DEAP</title>
+      <link>https://johntheo.github.io/2017/06/tutorial-deap/</link>
+      <pubDate>Fri, 02 Jun 2017 20:00:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/2017/06/tutorial-deap/</guid>
+      <description>Problema da fabricação de garrafas TL;DR
+Neste post eu quero mostrar a utilização de um framework para computação evolucionária chamado DEAP(Distributed Evolutionary Algorithms in Python). Como o nome já diz é uma lib de algoritmos evolucionários que podem ser rodados de forma distribuidas. Ah, e é em Python! =)
+Descobri esse framework quando fui buscar uma solução(em Python) que me auxiliasse em alguns trabalhos da disciplina de Computação Evolucionária que estava fazendo no mestrado.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dsp on johntheology</title>
+    <link>https://johntheo.github.io/tags/dsp/</link>
+    <description>Recent content in Dsp on johntheology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 06 Jun 2017 17:15:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://johntheo.github.io/tags/dsp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anaconda, Librosa, Windows 10</title>
+      <link>https://johntheo.github.io/2017/06/anaconda-librosa-windows-10/</link>
+      <pubDate>Tue, 06 Jun 2017 17:15:00 -0300</pubDate>
+      
+      <guid>https://johntheo.github.io/2017/06/anaconda-librosa-windows-10/</guid>
+      <description>Instalar alguns plugins que utilizam bibliotecas em C, nem sempre é simples com python. Se o ambiente não estiver redondo pode dar alguns problemas chatinhos de compilação.
+Abaixo eu montei um passo-a-passo de como deixar o ambiente OK para instalar qualquer pacote que utilize bibliotecas em C. No meu teste estou utilizando a librosa(biblioteca para processamento de audio), mas pode ser aplicado a qualquer biblioteca como é o caso do theano(biblioteca de deep learning)</description>
+    </item>
+    
+  </channel>
+</rss>
